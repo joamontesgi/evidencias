@@ -1,0 +1,8 @@
+{
+  "name": "evidencias-apartamento",
+  "private": true,
+  "scripts": {
+    "build": "node scripts/generate-config.js",
+    "dev": "python -m http.server 8080"
+  }
+}
